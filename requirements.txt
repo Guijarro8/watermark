@@ -1,4 +1,3 @@
 streamlit
 Pillow
-io 
-base64
+pybase64
